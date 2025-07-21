@@ -1,0 +1,8 @@
+python --version
+(Invoke-WebRequest -Uri https://install.python-poetry.org -UseBasicParsing).Content | py -
+poetry --version
+poetry self add poetry-plugin-shell
+poetry shell
+pytest
+get-papers-list "crispr therapeutics[title]" --file "results.csv"
+deactivate

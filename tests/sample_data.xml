@@ -1,0 +1,65 @@
+<PubmedArticle>
+  <MedlineCitation Status="MEDLINE" Owner="NLM">
+    <PMID Version="1">12345678</PMID>
+    <DateCompleted>
+      <Year>2023</Year>
+      <Month>01</Month>
+      <Day>15</Day>
+    </DateCompleted>
+    <Article PubModel="Print">
+      <Journal>
+        <Title>Journal of Fictional Science</Title>
+      </Journal>
+      <ArticleTitle>A groundbreaking study on novel therapeutics.</ArticleTitle>
+      <PubDate>
+        <Year>2023</Year>
+        <Month>Jan</Month>
+      </PubDate>
+      <AuthorList CompleteYN="Y">
+        <Author ValidYN="Y">
+          <LastName>Smith</LastName>
+          <ForeName>John</ForeName>
+          <AffiliationInfo>
+            <Affiliation>Department of Biology, University of Academia, Anytown, USA.</Affiliation>
+          </AffiliationInfo>
+        </Author>
+        <Author ValidYN="Y" CorrespondingAffiliation="Y">
+          <LastName>Doe</LastName>
+          <ForeName>Jane</ForeName>
+          <AffiliationInfo>
+            <Affiliation>Research and Development, PharmaCorp Inc., Biotech City, USA. Electronic address: jane.doe@pharmaco.com.</Affiliation>
+          </AffiliationInfo>
+        </Author>
+      </AuthorList>
+    </Article>
+  </MedlineCitation>
+</PubmedArticle>
+<PubmedArticle>
+  <MedlineCitation Status="MEDLINE" Owner="NLM">
+    <PMID Version="1">98765432</PMID>
+    <DateCompleted>
+      <Year>2022</Year>
+      <Month>11</Month>
+      <Day>05</Day>
+    </DateCompleted>
+    <Article PubModel="Print">
+      <Journal>
+        <Title>Academic Research Today</Title>
+      </Journal>
+      <ArticleTitle>A study with no industry affiliation.</ArticleTitle>
+      <PubDate>
+        <Year>2022</Year>
+        <Month>Nov</Month>
+      </PubDate>
+      <AuthorList CompleteYN="Y">
+        <Author ValidYN="Y">
+          <LastName>Jones</LastName>
+          <ForeName>Peter</ForeName>
+          <AffiliationInfo>
+            <Affiliation>Institute of Pure Science, University of Knowledge, Knowledgetown, UK.</Affiliation>
+          </AffiliationInfo>
+        </Author>
+      </AuthorList>
+    </Article>
+  </MedlineCitation>
+</PubmedArticle>
