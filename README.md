@@ -16,7 +16,7 @@ The project is managed with [Poetry](https://python-poetry.org/).
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/paperfetcher.git](https://github.com/your-username/paperfetcher.git)
+    git clone https://github.com/VachanaJRai/Aganitha.git
     cd paperfetcher
     ```
 
